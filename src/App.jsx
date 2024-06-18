@@ -1,4 +1,4 @@
-import { ToastContainer } from 'react-toastify';
+import { ToastContainer } from 'react-bootstrap';
 import { nanoid } from 'nanoid';
 import Form from './Form';
 import Items from './Items';
